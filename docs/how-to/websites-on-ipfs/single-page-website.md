@@ -6,7 +6,7 @@ description: Learn how to host a simple one-page website on IPFS and link up a d
 
 # Host a single-page website on IPFS
 
-In this tutorial, we will host a simple one-page website on IPFS and link up a domain name. This is the first step is a series of tutorials to teach web developers on how to build websites and applications using IPFS.
+In this tutorial, we will host a simple one-page website on IPFS and link up a domain name. This is the first step is a series of tutorials to teach web developers how to build websites and applications using IPFS.
 
 ## Install IPFS desktop
 
