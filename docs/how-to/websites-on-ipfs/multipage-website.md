@@ -207,7 +207,7 @@ Instead of sharing the CID of your website, you publish the root CID of your web
     ```
 
 1. Copy the last CID `QmchJPQN...` from the output of the `ipfs add` command.
-1. Publish your project to IPNS using `ipfs name publish /ipfs/QMchJPQN...`. Replace `QMchJPQN...` with the CID you got in the last step:
+1. Publish your project to IPNS using `ipfs name publish /ipfs/QMchJPQN...`. Replace `QMchJPQN...` in the following command with the CID you got in the last step:
 
     ```shell
     ipfs name publish /ipfs/QmchJPQNLE5EUSYTzfzUsNFyPozXyANiZHFDSFKWdLNdRR
